@@ -1,6 +1,6 @@
 # Mangoes - A Discord Music Bot
 
-Mangoes is a TypeScript-based Discord music bot created by Carrot, a first-year computer science student at the University of the West Indies. The bot was developed to the further the project, increasing my knowledge of bots and the Discord API.
+Mangoes is a TypeScript-based Discord music bot created by Carrot, a first-year Computer Science student at the University of the West Indies(STA). The bot was developed to the further the project, increasing my knowledge of bots and the Discord API.
 
 ## Commands
 
