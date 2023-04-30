@@ -4,6 +4,9 @@
 	"description": "light music bot in typescript",
 	"main": "./src/index.ts",
 	"auth": "carrot/Dmitri",
+	"engines": {
+		"node": ">=16.11.0"
+	},
 	"scripts": {
 		"start": "ts-node ./src/index.ts",
 		"build": "tsc --build",
