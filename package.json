@@ -8,6 +8,7 @@
 		"node": ">=16.11.0"
 	},
 	"scripts": {
+		"dev": "nodemon index.ts",
 		"start": "ts-node ./src/index.ts",
 		"build": "tsc --build",
 		"prod": "npm run build && node ./build/index.js"
