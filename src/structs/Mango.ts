@@ -29,7 +29,7 @@ export class Mango {
 				status: 'online', // You can use 'online', 'idle', 'dnd', or 'invisible'
 				activities: [
 					{
-						name: `/help`// The text displayed as the bot's status
+						name: `/help for more info`// The text displayed as the bot's status
 					}
 				]
 			});
