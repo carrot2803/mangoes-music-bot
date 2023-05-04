@@ -1,11 +1,11 @@
 import "dotenv/config";
 import { Config } from "../interfaces/config"
-import { TOKEN } from "../../config.json"
+import { TOKEN } from "../config.json"
 
 let config: Config;
 
 try {
-    config = require("../../config.json");
+    config = require("../config.json");
 }
 catch (error) {
     config = {
